@@ -52,4 +52,4 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 
 ## ✅ Solução
-Implementei todas tarefas listadas no TODO dentro do código que estava pela metade. Agora o sistem gerenciador de tarefas se encontra funcional e é possível cadastrar tarefas, editar, deletar e procurar. 
+Implementei todas tarefas listadas no TODO dentro do código que estava pela metade. Agora o sistems gerenciador de tarefas se encontra funcional e é possível cadastrar tarefas, editar, deletar e procurar. 
