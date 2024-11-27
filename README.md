@@ -1,24 +1,21 @@
-# DIO - Trilha .NET - API e Entity Framework
-www.dio.me
+# 💻 Desafio de projeto - Trilha .NET | Integrando APIs NET Csharp com Entity Framework
 
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+### Desafio de projeto
+Para este desafio, precisei usar meus conhecimentos adquiridos no módulo de APIs, da trilha .NET da [DIO](https://www.dio.me).
 
-## Contexto
-Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
+## 💼 Contexto
+Preciso construir um sistema gerenciador de tarefas, onde o usuário poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
 
-Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
+Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir ao usuário obter os registros, criar, salvar e deletar esses registros.
 
-A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
+A aplicação deverá ser do tipo Web API ou MVC. Nesse caso, desenvolvi uma Web API.
 
-A sua classe principal, a classe de tarefa, deve ser a seguinte:
+A classe principal, a classe de tarefa, deve ser a seguinte:
 
 ![Diagrama da classe Tarefa](diagrama.png)
 
-Não se esqueça de gerar a sua migration para atualização no banco de dados.
-
 ## Métodos esperados
-É esperado que você crie o seus métodos conforme a seguir:
+É esperado tenha os métodos conforme a seguir:
 
 
 **Swagger**
@@ -54,5 +51,5 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 ```
 
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+## ✅ Solução
+Implementei todas tarefas listadas no TODO dentro do código que estava pela metade. Agora o sistem gerenciador de tarefas se encontra funcional e é possível cadastrar tarefas, editar, deletar e procurar. 
